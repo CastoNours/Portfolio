@@ -1,0 +1,15 @@
+div{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+body{
+	margin-top: none;
+}
+p{
+	margin-bottom: 20px;
+	font-size: 40px;
+}
+img{
+	width: 60%;
+}
